@@ -1,0 +1,21 @@
+# Amplitude thresholds (dB) of subjects for Experiment 2 (Figure 3)																
+# One can reverse dB scale of x by computing 10**(x/20) 																
+																
+# Subject: AVE																
+"# line 1: Uniform background, line2: Modulated background"																
+4.071826264888444769e+01, 4.121480819970503262e+01, 4.021713702799957701e+01, 3.883253175293136650e+01
+3.627210768274479591e+01, 3.656241447444898540e+01, 3.779951954308166506e+01, 3.635638485985457891e+01									
+# sine,    tri,    sqr,    rect																
+																
+# Subject: AZ																
+"# line 1: Uniform background, line2: Modulated background"																
+4.052843104718047584e+01, 3.977878266769640447e+01, 3.989932898212094869e+01, 3.932917907111755085e+01
+3.626099086502048863e+01, 3.591632509790082395e+01, 3.742466290004258411e+01, 3.765835518123370207e+01										
+# sine,    tri,    sqr,    rect																
+																
+# Subject: CO															
+"# line 1: Uniform background, line2: Modulated background"																
+4.084681370126568822e+01, 4.234387874754573033e+01, 4.043340370099447512e+01, 3.844213919221959230e+01
+3.626558755557142177e+01, 3.722724104176305815e+01, 3.822953172487727613e+01, 3.483841708895278799e+01
+# sine,    tri,    sqr,    rect			
+																																									
