@@ -1,6 +1,6 @@
 # Detection of Targets in Filtered Noise: Whitening in Space and Spatial Frequency
 
-![Template Matching Models](whitening_weighting_illustration.png)
+![Template Matching Models](TemplateMatchingDoubleWhitening.png)
 
 ## Table of Contents
 
@@ -15,6 +15,15 @@
 ## Function / Purpose
 
 This repository is a summary of my research project under the supervision of Wilson Geisler. It provides optimal and sub-optimal model observers for detecting deterministic targets in wide sense stationary 2D noise. These models are also very efficient in non-stationary noises, such as the natural images.
+
+## Reference
+
+For more details of this project, welcome to read the corresponding peer-reviewed article:
+
+[Zhang, A., & Geisler, W. S. (2022). Detection of targets in filtered noise: whitening in space and spatial frequency. JOSA A, 39(4), 690-701.](https://doi.org/10.1364/JOSAA.447391)
+
+Correction: The luminance of the screen
+outside the background patch was set to the mean luminance of the background patches, which was always **46** $\textrm{cd/m}^2$.
 
 ## Contact
 
